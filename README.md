@@ -133,18 +133,3 @@ jupyter notebook notebooks/
 - [x] `README.md` — this document
 
 ---
-
-## 🗺️ Roadmap
-
-| Day | Focus |
-|-----|-------|
-| **1** | ✅ Data ingestion & quality audit |
-| 2 | SQL schema design & data loading |
-| 3 | Exploratory Data Analysis (EDA) with Jupyter |
-| 4 | Return & risk metrics computation |
-| 5 | Interactive Plotly/Dash dashboard |
-| 6 | Automated reporting pipeline |
-| 7 | Final presentation & documentation |
-
----
-
