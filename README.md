@@ -148,15 +148,3 @@ jupyter notebook notebooks/
 
 ---
 
-## 🤝 Contributing
-
-1. Fork the repo
-2. Create a feature branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m "feat: your description"`
-4. Push and open a pull request
-
----
-
-## 📜 License
-
-This project is created for educational and training purposes as part of the Bluestock Fintech Data Engineering Capstone.
