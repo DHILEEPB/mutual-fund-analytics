@@ -133,3 +133,15 @@ jupyter notebook notebooks/
 - [x] `README.md` — this document
 
 ---
+
+## 🔀 Git History
+
+| Commit | Message |
+|--------|---------|
+| `d9f8e6a` | **Day 1: Data ingestion complete** |
+
+```bash
+git commit -m "Day 1: Data ingestion complete"
+```
+
+---
