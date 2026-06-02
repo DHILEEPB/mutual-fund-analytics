@@ -132,19 +132,3 @@ jupyter notebook notebooks/
 - [x] `reports/data_quality_report.txt` *(generated on first run)*
 - [x] `README.md` — this document
 
----
-
-## 🔀 Git History
-
-| Commit | Message |
-|--------|---------|
-| `9b5c890` | **Day 1: Data ingestion complete** |
-| `bfccbe8` | docs: remove Roadmap section from README |
-| `348b976` | docs: remove Contributing and License sections from README |
-| `d9f8e6a` | Day 1: Data ingestion complete *(initial commit)* |
-
-```bash
-git commit -m "Day 1: Data ingestion complete"
-```
-
----
